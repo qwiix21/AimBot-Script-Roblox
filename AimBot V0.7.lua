@@ -747,7 +747,7 @@ Tabs.Info:AddButton({
     Title = "GitHub Repository",
     Description = "Open script repository",
     Callback = function()
-        setclipboard("https://github.com/your-username/elite-aimbot")
+        setclipboard("https://github.com/qwiix21/AimBot-Script-Roblox/blob/main/AimBot%20V0.7.lua")
         Fluent:Notify({
             Title = "Link Copied",
             Content = "GitHub repository link copied to clipboard",
